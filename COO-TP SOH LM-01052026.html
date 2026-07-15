@@ -28,7 +28,7 @@
 
         <table>
           <tr><td class="label">Certificate No.</td><td>COO-TP SOH /LM-0105/2026</td></tr>
-          <tr><td class="label">Issue Date</td><td>03 Jul 2026</td></tr>
+          <tr><td class="label">Issue Date</td><td>10 Jun 2026</td></tr>
           <tr><td class="label">Exporter</td><td>HILLSTONE INTERNATIONAL LIMITED UNIT A7, 5/F,ASTORIA BUILDING 34 ASHLEY ROAD TSIM SHA TSUIKL</td></tr>
           <tr><td class="label">Consignee</td><td>Swahil Aden for petroleum Derivatives  address:Sanaa St, Bajil, Yemen Email: swahiladenpd@gmail.com</td></tr>
           <tr><td class="label">Country of Origin</td><td>OMAN</td></tr>
